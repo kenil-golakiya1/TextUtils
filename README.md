@@ -1,2 +1,2 @@
 # TextUtils
-The App.js file is the main entry point of the React application, responsible for managing the theme (light/dark) and handling page navigation using React Router. It ensures that the user's theme preference is saved in local storage and remains persistent even after refreshing or reopening the application.
+The TextUtils website is a React-based web application designed to perform various text manipulation tasks such as text conversion, text analysis, and text transformation. It allows users to convert text to uppercase, lowercase, trim spaces, clear text, copy text, and calculate text statistics. The application is built using React.js along with React Router for navigation and state management for real-time text updates.
